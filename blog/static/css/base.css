@@ -1,0 +1,11 @@
+/* static/css/base.css */
+header h1 a {
+    color: red;
+    text-decoration: none;
+}
+
+header {
+border-bottom: 1px solid #999;
+margin-bottom: 2rem;
+display: flex;
+}
